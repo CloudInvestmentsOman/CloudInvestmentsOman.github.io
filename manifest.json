@@ -1,0 +1,27 @@
+{
+  "name": "Cloud Investment LLC",
+  "short_name": "Cloud Investment",
+  "description": "Empowering Industries, Building Futures - Strategic capital deployment and business development initiatives in Oman.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2563eb",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "finance", "investment"],
+  "lang": "en",
+  "dir": "ltr"
+} 
